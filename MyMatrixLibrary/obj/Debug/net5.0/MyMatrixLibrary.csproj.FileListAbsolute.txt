@@ -1,0 +1,12 @@
+C:\Users\tulin\RiderProjects\Solution1\MyMatrixLibrary\bin\Debug\net5.0\MyMatrixLibrary.deps.json
+C:\Users\tulin\RiderProjects\Solution1\MyMatrixLibrary\bin\Debug\net5.0\MyMatrixLibrary.dll
+C:\Users\tulin\RiderProjects\Solution1\MyMatrixLibrary\bin\Debug\net5.0\ref\MyMatrixLibrary.dll
+C:\Users\tulin\RiderProjects\Solution1\MyMatrixLibrary\bin\Debug\net5.0\MyMatrixLibrary.pdb
+C:\Users\tulin\RiderProjects\Solution1\MyMatrixLibrary\obj\Debug\net5.0\MyMatrixLibrary.csprojAssemblyReference.cache
+C:\Users\tulin\RiderProjects\Solution1\MyMatrixLibrary\obj\Debug\net5.0\MyMatrixLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tulin\RiderProjects\Solution1\MyMatrixLibrary\obj\Debug\net5.0\MyMatrixLibrary.AssemblyInfoInputs.cache
+C:\Users\tulin\RiderProjects\Solution1\MyMatrixLibrary\obj\Debug\net5.0\MyMatrixLibrary.AssemblyInfo.cs
+C:\Users\tulin\RiderProjects\Solution1\MyMatrixLibrary\obj\Debug\net5.0\MyMatrixLibrary.csproj.CoreCompileInputs.cache
+C:\Users\tulin\RiderProjects\Solution1\MyMatrixLibrary\obj\Debug\net5.0\MyMatrixLibrary.dll
+C:\Users\tulin\RiderProjects\Solution1\MyMatrixLibrary\obj\Debug\net5.0\ref\MyMatrixLibrary.dll
+C:\Users\tulin\RiderProjects\Solution1\MyMatrixLibrary\obj\Debug\net5.0\MyMatrixLibrary.pdb
